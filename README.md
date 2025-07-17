@@ -22,13 +22,14 @@ KING OF TIMEにはもとから残業時間を表示する機能があります�
 
 本スクリプトはEdgeブラウザの拡張機能として実装されているので、Edgeブラウザに拡張機能をインストールします。
 
-* Releaseページから"KoT-Ext_CalcOvertime.zip"をダウンロードし、任意のフォルダに展開する。
+* [Releaseページ](https://github.com/tomoyaeibu/KoT-Ext_CalcOvertime/releases/tag/Ver1.0 "Release")
+から"KoT-Ext_CalcOvertime.zip"をダウンロードし、任意のフォルダに展開する。
 * EdgeブラウザでURL入力欄に"edge://extensions/"を入力し、「拡張機能」のページを開く。
 * 「開発者モード」を有効にする。
 * 「展開して読み込み」をクリックする。ディレクトリの選択画面が表示される。
 * 事前に"KoT-Ext_CalcOvertime.zip"を展開したフォルダを選択する。
 * インストールが成功する。
-* ！！！注意！！！：「開発者モード」を無効にしてください。
+* ！！！注意！！！：インストール後には必ず「開発者モード」を無効に戻して下さい。
 
 
 ### アップデート方法
