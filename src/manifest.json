@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "KOT_Ext(Calc Overtime)",
+  "version": "1.0",
+  "description": "KOT_Ext(Calc Overtime)",
+  
+  "content_scripts": [
+    {
+      "matches": ["https://s3.ta.kingoftime.jp/admin/*"],
+      "js": ["script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
