@@ -6,8 +6,8 @@
 
 // デフォルト設定値
 var DEFAULT_SETTINGS = {
-    OFFICETIME: 8,      // 在社時間(h) 休憩含む
-    WORKTIME: 7,        // 業務時間(h)
+    OFFICETIME: 9,      // 在社時間(h) 休憩含む
+    WORKTIME: 8,        // 業務時間(h)
     DISPLAY: 1,         // 表示形式 0: フルタイトル + ウィジェット 1: コンパクトタイトル + ウィジェット
     CALCOVERTIMEFLAG: 0 // 残業時間を加味した退社時間を算出する
 };
